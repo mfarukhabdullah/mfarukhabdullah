@@ -19,7 +19,6 @@ Currently open to **Full-Time Remote roles (US & UAE timezones)** and internatio
 
 #### 🚀 Featured Work
 
-- **FashionHub** — Full-stack luxury eCommerce storefront featuring real-time Stripe payment processing, cart calculations, coupon engine, and automated order fulfillment.
 - **[Pet-Market](https://github.com/mfarukhabdullah/Pet-Market)** — Multi-category marketplace and adoption platform with role-based permissions and relational data modeling.
 - **[Indus Resort](https://github.com/mfarukhabdullah/indus_resort)** — Hospitality and resort reservation management system with room scheduling workflows.
 
