@@ -1,30 +1,56 @@
 ### Hi, I'm Farukh 
 
-I'm a Full-Stack Web Developer based in Pakistan, focused on building robust web applications and backend systems using **PHP, Laravel, and MySQL**. 
+I'm a Full-Stack Web Developer based in Pakistan, specializing in building high-performance web applications, custom e-commerce engines, and backend systems using **PHP, Laravel, and MySQL**. 
 
-I enjoy solving real business problems, designing clean database schemas, and integrating secure payment solutions.
+Over the past few years, I have worked with cross-functional teams to build and scale production applications for international businesses across the **United States, Middle East, and South Asia**.
 
-Currently open to **Full-Time Remote roles (US & UAE timezones)** and international engineering contracts.
+Currently open to **Full-Time Remote roles (US & UAE timezones)** and high-impact engineering contracts.
 
 ---
 
 ####  Core Technologies
 
-- **Backend:** PHP 8+, Laravel, MySQL, RESTful APIs, MVC, OOP & Clean Architecture
-- **Payment Systems:** Stripe API (PaymentIntents, Webhooks, SCA Compliance)
-- **Frontend:** JavaScript, Blade Engine, Tailwind CSS, Bootstrap
-- **Tooling & DevOps:** Git, GitHub, Composer, Postman, Linux
+- **Backend:** PHP 8+, Laravel, MySQL, RESTful APIs, OOP Architecture, Database Design
+- **Payment & Integrations:** Stripe API, Automated Invoicing, Lead Capture Funnels
+- **Frontend:** JavaScript, Blade Engine, Tailwind CSS, Bootstrap, Responsive UI/UX
+- **Tooling & Workflow:** Git, GitHub, Composer, Postman, Linux
 
 ---
 
-####  Featured Work
+####  Production & Commercial Work
 
-- **[Pet-Market](https://github.com/mfarukhabdullah/Pet-Market)** — Multi-category marketplace and adoption platform with role-based permissions and relational data modeling.
-- **[Indus Resort](https://github.com/mfarukhabdullah/indus_resort)** — Hospitality and resort reservation management system with room scheduling workflows.
+Below are selected live production platforms I have built and contributed to in team environments:
+
+- **[Go Custom Boxes](https://gocustomboxes.com/)** 🔗  
+  *Enterprise custom packaging and manufacturing platform featuring instant quotation workflows, dynamic product filtering, and scalable catalog architecture.*  
+  `PHP` • `Laravel / MVC` • `MySQL` • `JavaScript` • `Tailwind CSS`
+
+- **[The Rigid Boxes](https://therigidboxes.com/)** 🔗  
+  *Luxury packaging manufacturing web portal with custom dimensions calculator, lead generation pipelines, and cross-browser responsive design.*  
+  `PHP` • `MySQL` • `JavaScript` • `Bootstrap` • `CSS3`
+
+- **[Premium Boxes](https://premiumboxes.com/)** 🔗  
+  *B2B custom packaging and box manufacturing storefront featuring wholesale quotation request workflows and optimized page loading.*  
+  `PHP` • `MySQL` • `JavaScript` • `HTML5` • `Bootstrap`
+
+- **[Label Pouches](https://labelpouches.com/)** 🔗  
+  *Custom flexible packaging and pouch web application featuring material specifications selector, instant quote forms, and mobile-first layout.*  
+  `PHP` • `MySQL` • `JavaScript` • `Tailwind CSS`
+
+- **[Niaz Law PC](https://niazlawpc.com/)** 🔗  
+  *Corporate web platform for a US-based law practice featuring confidential client consultation intake, practice area showcases, and inquiry management.*  
+  `PHP` • `MySQL` • `JavaScript` • `Modern UI`
+
+- **[Indus Resort & Restaurant](https://www.indusresortrestaurant.com/)** 🔗  
+  *Luxury riverside resort and dining web application with room reservation scheduling, dining menu showcases, and event booking management.*  
+  `PHP` • `Laravel` • `MySQL` • `JavaScript` • `Bootstrap`
 
 ---
 
 ####  Get in Touch
 
+I'm always open to discussing new engineering opportunities, remote software positions, or contract projects.
+
 - **LinkedIn:** [muhammad-farukh-abdullah](https://www.linkedin.com/in/muhammad-farukh-abdullah-3b05b8305)
-- **Email:** [farukhabdullah734@gmail.com](mailto:farukhabdullah734@gmail.com)
+- **Direct Email:** [farukhabdullah734@gmail.com](mailto:farukhabdullah734@gmail.com)
+- **Location:** Pakistan *(Readily available for US & UAE timezones)*
